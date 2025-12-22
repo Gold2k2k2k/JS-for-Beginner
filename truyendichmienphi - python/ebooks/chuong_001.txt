@@ -1,0 +1,29 @@
+Chương 1: Ác mộng tường giải (cùng với một ít thiết lập)
+
+
+[Canvas 1]
+““Giải thích về Ác mộng (kèm theo một số thiết lập)"”
+
+
+
+[Canvas 2]
+1. Đối với cùng một nhóm người, mỗi loại cửa chỉ xuất hiện một lần duy nhất. Cửa xuất
+hiện trong nhà nhân vật chính mỗi lần đều khác nhau, và thể giới phía sau cánh cửa cũng
+khác biệt.
+
+
+
+[Canvas 3]
+1. Hỗ trợ xem lại nhiệm vụ vừa rồi (ngẫu nhiên, nội dung chỉ tiết khác nhau).
+
+
+
+[Canvas 4]
+1. Ngăn chặn một lần sát thương chí mạng trong nhiệm vụ.
+
+
+
+[Canvas 5]
+3. Không phải cánh cửa nào cũng có thể thu hoạch được.
+
+
