@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "author": "HT",
+    "description": "Vbook extension made by HT"
+  },
+  "data": [
+    {
+      "path": "https://raw.githubusercontent.com/Gold2k2k2k/JS-for-Beginner/refs/heads/master/Fanqie%20by%20HT%20(1)/Fanqie.zip?token=GHSAT0AAAAAADO2FIOQJMKZIGA7HBUVBE3U2NGWW5Q",
+      "icon": "https://raw.githubusercontent.com/Gold2k2k2k/JS-for-Beginner/refs/heads/master/Fanqie%20by%20HT%20(1)/icon.png?token=GHSAT0AAAAAADO2FIOQJMKZIGA7HBUVBE3U2NGWW5Q",
+      "name": "Fanqie by HT",
+      "author": "HT",
+      "version": 7,
+      "source": "https://fanqienovel.com",
+      "regexp": "https://fanqienovel.com/(.*?)$",
+      "description": "Fanqie by HT",
+      "locale": "zh_CN",
+      "tag": "",
+      "type": "chinese_novel"
+    }
+  ]
+}
